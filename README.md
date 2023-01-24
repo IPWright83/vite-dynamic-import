@@ -1,4 +1,6 @@
-# Repository demonstrating the Vite Dynamic Module issue
+# Repository demonstrating Vite Dynamic Module issue
+
+https://github.com/vitejs/vite/issues/11804
 
 When running a project built in Vite you can hit:
 
