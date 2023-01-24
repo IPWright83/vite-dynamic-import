@@ -8,7 +8,7 @@ function App() {
   const [showFoo, setShowFoo] = useState(false);
 
   useEffect(() => {
-    setTimeout(() => setShowFoo(true), 10000);
+    setTimeout(() => setShowFoo(true), 30000);
   });
 
   return (
